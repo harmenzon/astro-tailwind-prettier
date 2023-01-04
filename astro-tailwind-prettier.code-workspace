@@ -1,0 +1,25 @@
+{
+  "folders": [
+    // Files in root of project folder
+		{
+      "name": "root",
+			"path": "./",
+		},
+    // API
+    {
+      "name": "backend",
+      "path": "backend"
+    },
+    // Website
+    {
+      "name": "frontend",
+      "path": "frontend"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "backend": true,
+      "frontend": true
+    },
+  }
+}
